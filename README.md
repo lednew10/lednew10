@@ -46,3 +46,13 @@ The content of this email is the sole responsibility of the user. SENAI assumes 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lednew10&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>S
+
+<div align="center">
+
+### ✨ Obrigado por visitar meu perfil!
+
+Fique à vontade para explorar meus repositórios e acompanhar minha evolução na programação.
+
+![Profile Views](https://komarev.com/ghpvc/?username=Dylan-ux-creator&label=Visualizações&color=0e75b6&style=flat)
+
+</div>
