@@ -25,7 +25,7 @@
 ---
 
 ### 📬 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-faber-2b97b7426/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendel.f10santos@gmail.com)
 
 The content of this email is the sole responsibility of the user. SENAI assumes no responsibility for the information provided or for certifying its accuracy.
