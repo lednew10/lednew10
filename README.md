@@ -29,3 +29,20 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wendel.f10santos@gmail.com)
 
 The content of this email is the sole responsibility of the user. SENAI assumes no responsibility for the information provided or for certifying its accuracy.
+
+## &nbsp;Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anaasrv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaasrv&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anaasrv&theme=tokyonight&hide_border=true" width="60%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anaasrv&theme=tokyo-night&hide_border=true" width="90%"/>
+
+</div>
