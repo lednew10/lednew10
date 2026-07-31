@@ -43,6 +43,6 @@ The content of this email is the sole responsibility of the user. SENAI assumes 
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anaasrv&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lednew10&theme=tokyo-night&hide_border=true" width="90%"/>
 
-</div>
+</div>S
