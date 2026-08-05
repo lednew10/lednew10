@@ -34,12 +34,12 @@ The content of this email is the sole responsibility of the user. SENAI assumes 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anaasrv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaasrv&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lednew10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lednew10&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anaasrv&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lednew10&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br><br>
 
@@ -53,6 +53,6 @@ The content of this email is the sole responsibility of the user. SENAI assumes 
 
 Fique à vontade para explorar meus repositórios e acompanhar minha evolução na programação.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dylan-ux-creator&label=Visualizações&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=lednew10&label=Visualizações&color=0e75b6&style=flat)
 
 </div>
